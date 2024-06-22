@@ -7,12 +7,14 @@ a person's relative body composition without regard to height or weight. The dat
 **Model Type** : Linear Regression
 
 **Dataset source** : https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset
+
 **Dataset column description** :
-Density determined from underwater weighing
-Percent body fat from Siri's (1956) equation
-Age (years)
-Weight (lbs)
-Height (inches)
+
+Density determined from underwater weighing   
+Percent body fat from Siri's (1956) equation    
+Age (years)   
+Weight (lbs)   
+Height (inches)   
 Neck circumference (cm)
 Chest circumference (cm)
 Abdomen 2 circumference (cm)
@@ -24,7 +26,8 @@ Biceps (extended) circumference (cm)
 Forearm circumference (cm)
 Wrist circumference (cm)
 
-**Evaluation Metrics** : Mean squared error, R-squared value
+**Evaluation Metrics** : Mean squared error, R-squared value   
+
 **Libraries** : pandas, sklearn, matplotlib, seaborn, statsmodels
 
 If you have any suggestions or find any issues with the model, contributions are welcome.
